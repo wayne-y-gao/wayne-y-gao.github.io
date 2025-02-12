@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Wayne Yuan Gao"
 title_separator          : "-"
 name                     : &name "Wayne Gao"
-description              : &description "personal description"
+description              : &description "Assistant Professor of Economics, University of Pennsylvania"
 url                      : https://wayne-y-gao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wayne-y-gao/wayne-y-gao.github.io"
@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
-  uri              : # URL
+  uri              : "https:www.waynegao.com"
   email            : "waynegao@upenn.edu" 
 
   # Academic websites
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -220,10 +220,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
