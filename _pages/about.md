@@ -7,30 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex;">
-  <div style="flex: 1; position: fixed; left: 0; top: 50%; transform: translateY(-50%);">
-    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:30%;">
-  </div>
-  <div style="flex: 2; margin-left: 35%;">
-    <p>&nbsp;</p>
-    Assistant Professor of Economics,\
-    University of Pennsylvania
-
-    Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
-
-    Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
-
-    **Curriculum Vitae**: [CV](files/GaoWayne_CV250210.pdf)
-
-    **Academic Appointments:**
-    * Assistant Professor of Economics, University of Pennsylvania, 2020-current.
-    * Visiting Assistant Professor of Economics, Harvard University, Spring 2022.
-    * Lecturer, University of Pennsylvania, 2019-2020.
-
-    **Education:**
-    * Ph.D. Economics, Yale University, 2019.​
-    * M.Phil. Economics, Yale University, 2016.
-    * M.A. Economics, Duke University, 2014.
-    * B. Economics & Finance, University of Hong Kong, 2012.
-  </div>
+<p>&nbsp;</p>
+<div style="text-align: center;">
+  <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:30%;">
 </div>
+<p>&nbsp;</p>
+
+Assistant Professor of Economics,\
+University of Pennsylvania
+
+Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
+
+Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
+
+**Curriculum Vitae**: [CV](files/GaoWayne_CV250210.pdf)
+
+**Academic Appointments:**
+* Assistant Professor of Economics, University of Pennsylvania, 2020-current.
+* Visiting Assistant Professor of Economics, Harvard University, Spring 2022.
+* Lecturer, University of Pennsylvania, 2019-2020.
+
+**Education:**
+* Ph.D. Economics, Yale University, 2019.​
+* M.Phil. Economics, Yale University, 2016.
+* M.A. Economics, Duke University, 2014.
+* B. Economics & Finance, University of Hong Kong, 2012.
