@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center;">
-  <img src="images/BrickLightSqS.jpg" alt="Profile Image" style="width:30%;">
+  <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:30%;">
 </div>
 
 Assistant Professor of Economics, University of Pennsylvania
