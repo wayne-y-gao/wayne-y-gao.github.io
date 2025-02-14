@@ -20,8 +20,12 @@ redirect_from:
 <div style="text-align: center;">
   Assistant Professor of Economics<br>
   University of Pennsylvania<br>
-  [CV.pdf](files/GaoWayne_CV250210.pdf)
-  
+</div>
+
+<div style="text-align: center;">
+  <a href="files/GaoWayne_CV250210.pdf">CV</a>
+  <a href="files/GaoWayne_CV250210.pdf">Google Scholar</a>
+  <a href="files/GaoWayne_CV250210.pdf">GitHub</a>
 </div>
 
 <br />
