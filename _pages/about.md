@@ -17,8 +17,6 @@ redirect_from:
   WAYNE YUAN GAO
 </div>
 
-<br />
-
 <div style="text-align: center;">
   Assistant Professor of Economics<br>
   University of Pennsylvania<br>
