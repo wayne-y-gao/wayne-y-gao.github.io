@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Profile Image](images/BrickLightSqS.jpg)
+
 Assistant Professor of Economics,
 
 Department of Economics,
