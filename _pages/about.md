@@ -30,9 +30,9 @@ redirect_from:
 
 <br />
 
-**Contact:** 
-* Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104\
-* Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)\
+**Contact Information:** 
+* Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
+* Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
 
 
 **Academic Appointments:**
