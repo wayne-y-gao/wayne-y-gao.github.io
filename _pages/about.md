@@ -23,9 +23,10 @@ redirect_from:
 </div>
 
 <div style="text-align: center;">
-  <a href="files/GaoWayne_CV250210.pdf">CV</a>
-  <a href="files/GaoWayne_CV250210.pdf">Google Scholar</a>
-  <a href="files/GaoWayne_CV250210.pdf">GitHub</a>
+  <a href="files/GaoWayne_CV250210.pdf">CV</a>,
+  <a href="https://github.com/wayne-y-gao">GitHub</a>,
+  <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
+  
 </div>
 
 <br />
