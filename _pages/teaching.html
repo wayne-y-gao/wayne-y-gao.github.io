@@ -5,6 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+  .sticky-header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding: 10px;
+    font-size: 2em;
+    text-align: center;
+    z-index: 1000;
+  }
+</style>
+
+<div class="sticky-header">
+  TEACHING
+</div>
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
