@@ -30,11 +30,12 @@ redirect_from:
   <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
 </div>
 
-
+<br />
 
 **Contact Information:** 
-* Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
 * Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
+* Address: Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 South 36th Street, Philadelphia, PA 19104
+
 
 
 **Academic Appointments:**
