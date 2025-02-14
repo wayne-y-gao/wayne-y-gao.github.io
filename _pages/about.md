@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>&nbsp;</p>
-<div style="text-align: center;">
+<div style="position: fixed; left: 0; top: 50%; transform: translateY(-50%);">
   <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:30%;">
 </div>
 <p>&nbsp;</p>
