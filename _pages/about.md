@@ -13,20 +13,7 @@ redirect_from:
 </div>
 <p>&nbsp;</p>
 
-<style>
-  .sticky-header {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    background-color: white;
-    padding: 10px;
-    font-size: 2em;
-    text-align: center;
-    z-index: 1000;
-  }
-</style>
-
-<div class="sticky-header">
+<div style="text-align: center; font-size: 2em;">
   WAYNE YUAN GAO
 </div>
 
@@ -50,7 +37,7 @@ redirect_from:
 * Lecturer, University of Pennsylvania, 2019-2020.
 
 **Education:**
-* Ph.D. Economics, Yale University, 2019.​
+* Ph.D. Economics, Yale University, 2019.​ 
 * M.Phil. Economics, Yale University, 2016.
 * M.A. Economics, Duke University, 2014.
 * B. Economics & Finance, University of Hong Kong, 2012.
