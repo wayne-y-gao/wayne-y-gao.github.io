@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Profile Image](images/BrickLightSqS.jpg)
+<img src="images/BrickLightSqS.jpg" alt="Profile Image" style="width:30%;">
 
 Assistant Professor of Economics,
 Department of Economics,
