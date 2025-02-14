@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor of Economics at the University of Pennsylvania. 
+
 - **Address**: The Ronald O. Perelman Center for Political Science and Economics, Office 630, 
   133 South 36th Street, 
   Philadelphia, PA 19104
