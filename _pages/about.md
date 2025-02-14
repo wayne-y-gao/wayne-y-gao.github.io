@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -13,7 +13,8 @@ redirect_from:
 </div>
 <p>&nbsp;</p>
 
-Assistant Professor of Economics, University of Pennsylvania
+Assistant Professor of Economics,\
+University of Pennsylvania
 
 Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
 
