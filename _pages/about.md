@@ -32,10 +32,15 @@ redirect_from:
 
 </br>
 
-Assistant Professor of Economics
-University of Pennsylvania
+<div style="text-align: center;">
+  Assistant Professor of Economics<br>
+  University of Pennsylvania<br>
+  
+</div>
 
-**Address:** 133 South 36th Street, Office 630, Philadelphia, PA 19104
+</br>
+
+**Address**: 133 South 36th Street, Office 630, Philadelphia, PA 19104
 **Email:** [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
 **Curriculum Vitae:** [CV.pdf](files/GaoWayne_CV250210.pdf)
 
