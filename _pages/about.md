@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/BrickLightSqS.jpg" alt="Profile Image" style="width:30%;">
+<div style="text-align: center;">
+  <img src="images/BrickLightSqS.jpg" alt="Profile Image" style="width:30%;">
+</div>
 
-Assistant Professor of Economics,
-Department of Economics,
-University of Pennsylvania
+Assistant Professor of Economics, University of Pennsylvania
 
-133 South 36th Street, Office 630
-Philadelphia, PA 19104, USA
+Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
 
 Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
 
