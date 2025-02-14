@@ -1,19 +1,21 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at the University of Pennsylvania. 
+I am an Assistant Professor of Economics at the University of Pennsylvania. My research interests are in econometrics, microeconomic theory, and network economics.
 
-- **Address**: The Ronald O. Perelman Center for Political Science and Economics, Office 630, 
+**Address**: The Ronald O. Perelman Center for Political Science and Economics, Office 630, 
   133 South 36th Street, 
   Philadelphia, PA 19104
 
-- **Email**: waynegao@upenn.edu
+**Email**: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
+
+**Curriculum Vitae**: CV
 
 
 ======
