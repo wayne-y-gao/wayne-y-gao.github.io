@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Contact Information:
+- **Address**: The Ronald O. Perelman Center for Political Science and Economics, Office 630, 
+  133 South 36th Street, 
+  Philadelphia, PA 19104
 
-The Ronald O. Perelman Center for Political Science and Economics, Office 630, 
-133 South 36th Street, 
-Philadelphia, PA 19104
-
-Email: waynegao@upenn.edu
+- **Email**: waynegao@upenn.edu
 
 
 ======
