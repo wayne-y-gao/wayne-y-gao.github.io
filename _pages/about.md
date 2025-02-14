@@ -17,6 +17,8 @@ redirect_from:
   WAYNE YUAN GAO
 </div>
 
+<br />
+
 <div style="text-align: center;">
   Assistant Professor of Economics<br>
   University of Pennsylvania<br>
@@ -26,10 +28,9 @@ redirect_from:
   <a href="files/GaoWayne_CV250210.pdf">CV</a>,
   <a href="https://github.com/wayne-y-gao">GitHub</a>,
   <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
-  
 </div>
 
-<br />
+
 
 **Contact Information:** 
 * Address: 133 South 36th Street, Office 630, Philadelphia, PA 19104
