@@ -26,9 +26,9 @@ author:
   name             : "Wayne Yuan Gao"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Economics, University of Pennsylvania"
-  location         : "Philadelphia, PA"
-  employer         : "University of Pennsylvania"
-  uri              : "https:www.waynegao.com"
+  #location         : "Philadelphia, PA"
+  #employer         : "University of Pennsylvania"
+  #uri              : "https:www.waynegao.com"
   email            : "waynegao@upenn.edu" 
 
   # Academic websites
