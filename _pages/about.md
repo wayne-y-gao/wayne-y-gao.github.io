@@ -10,18 +10,11 @@ redirect_from:
 ![Profile Image](images/BrickLightSqS.jpg)
 
 Assistant Professor of Economics,
-
 Department of Economics,
-
 University of Pennsylvania
 
-
-
-The Ronald O. Perelman Center for Political Science and Economics, Office 630, 
-
-133 South 36th Street, 
-
-Philadelphia, PA 19104
+133 South 36th Street, Office 630
+Philadelphia, PA 19104, USA
 
 Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
 
