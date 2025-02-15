@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="flex-container">
   <div class="flex-item-left" style="text-align: center;">
-    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:80%;">
+    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:90%;">
   </div>
   <div class="flex-item-right" >
     <div style="text-align: center; font-size: 36px; align-items: center;">
