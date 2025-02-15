@@ -18,8 +18,8 @@ redirect_from:
     <div style="text-align: center; font-size: 18px; align-items: center;">
       Assistant Professor of Economics<br>
       <br>
-      Department of Economics<br>
-      University of Pennsylvania<br>
+      <a href="https://economics.sas.upenn.edu/">Department of Economics</a>, 
+      <a href="https://www.upenn.edu/">University of Pennsylvania</a><br>
       <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9"> The Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 S 36th St, Philadelphia, PA 19104</a><br>
       <br>
       <a href="mailto:waynegao@upenn.edu">Email: waynegao@upenn.edu</a><br>
