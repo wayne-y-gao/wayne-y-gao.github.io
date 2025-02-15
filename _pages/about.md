@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 <div class="flex-container">
-  <div class="flex-item-left"><img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:50%;"></div>
+  <div class="flex-item-left" style="text-align: center;">
+    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:50%;">
+  </div>
   <div class="flex-item-right">
-    <div style="text-align: center; font-size: 2em;">
+    <div style="text-align: center; font-size: 1em;">
       WAYNE YUAN GAO
     </div>
-    <div style="text-align: center;font-size: 1em;">
+    <div style="text-align: center;font-size: 0.5em;">
       Assistant Professor of Economics<br>
       University of Pennsylvania<br>
       <a href="files/GaoWayne_CV250210.pdf">CV</a>,
