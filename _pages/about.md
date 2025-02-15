@@ -12,10 +12,10 @@ redirect_from:
     <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:80%;">
   </div>
   <div class="flex-item-right" >
-    <div style="text-align: center; font-size: 32px; align-items: center;">
+    <div style="text-align: center; font-size: 40px; align-items: center;">
       WAYNE YUAN GAO
     </div>
-    <div style="text-align: center; font-size: 16px; align-items: center;">
+    <div style="text-align: center; font-size: 20px; align-items: center;">
       Assistant Professor of Economics<br>
       University of Pennsylvania<br>
       <a href="files/GaoWayne_CV250210.pdf">CV</a>,
