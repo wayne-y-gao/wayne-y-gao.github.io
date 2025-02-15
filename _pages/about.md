@@ -7,32 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  font-size: 30px;
-  text-align: center;
-}
-
-.flex-item-left {
-  padding: 10px;
-  flex: 50%;
-}
-
-.flex-item-right {
-  padding: 10px;
-  flex: 50%;
-}
-
-/* Responsive layout - makes a one column-layout instead of a two-column layout */
-@media (max-width: 800px) {
-  .flex-item-right, .flex-item-left {
-    flex: 100%;
-  }
-}
-<style>
-
 <div class="flex-container">
   <div class="flex-item-left"><img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:100%;"></div>
   <div class="flex-item-right">
