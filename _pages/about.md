@@ -9,15 +9,18 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:40%;">
+    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:50%;">
   </div>
-  <div style="flex: 2; text-align: left; padding-left: 20px;">
+  <div style="flex: 2; text-align: center; padding-left: 20px;">
     <div style="text-align: center; font-size: 2em;">
       WAYNE YUAN GAO
     </div>
     <div style="text-align: center;">
       Assistant Professor of Economics<br>
       University of Pennsylvania
+      <a href="files/GaoWayne_CV250210.pdf">CV</a>,
+      <a href="https://github.com/wayne-y-gao">GitHub</a>,
+      <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
     </div>
   </div>
 </div>
@@ -25,9 +28,7 @@ redirect_from:
 <p>&nbsp;</p>
 
 <div style="text-align: center;">
-  <a href="files/GaoWayne_CV250210.pdf">CV</a>,
-  <a href="https://github.com/wayne-y-gao">GitHub</a>,
-  <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
+
 </div>
 
 <br />
