@@ -13,7 +13,7 @@ redirect_from:
   </div>
   <div class="flex-item-right" >
     <div style="text-align: center; font-size: 2em; align-items: center; ">
-      <p><b>WAYNE YUAN GAO<b><p>
+      WAYNE YUAN GAO
     </div>
     <div style="text-align: center; font-size: 0.75em; align-items: center;">
       Assistant Professor of Economics<br>
