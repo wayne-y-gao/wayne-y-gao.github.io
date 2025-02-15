@@ -365,6 +365,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   flex-wrap: wrap;
   font-size: 30px;
   text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .flex-item-left {
