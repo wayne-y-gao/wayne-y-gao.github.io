@@ -28,32 +28,6 @@ redirect_from:
 
 <br />
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:100%;">
-  </div>
-  <div style="flex: 2; text-align: center; padding-left: 20px;">
-    <div style="text-align: center; font-size: 2em;">
-      WAYNE YUAN GAO
-    </div>
-    <div style="text-align: center;">
-      Assistant Professor of Economics<br>
-      University of Pennsylvania<br>
-      <a href="files/GaoWayne_CV250210.pdf">CV</a>,
-      <a href="https://github.com/wayne-y-gao">GitHub</a>,
-      <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
-    </div>
-  </div>
-</div>
-
-<p>&nbsp;</p>
-
-<div style="text-align: center;">
-
-</div>
-
-<br />
-
 **Contact Information:** 
 * Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
 * Address: Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 South 36th Street, Philadelphia, PA 19104
