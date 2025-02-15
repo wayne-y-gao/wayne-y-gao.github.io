@@ -15,6 +15,7 @@ redirect_from:
     <div style="text-align: center; font-size: 1em; align-items: center;">
       WAYNE YUAN GAO
     </div>
+    <br />
     <div style="text-align: center; font-size: 18px; align-items: center;">
       Assistant Professor of Economics<br>
       University of Pennsylvania<br>
