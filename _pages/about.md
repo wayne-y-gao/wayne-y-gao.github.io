@@ -12,8 +12,8 @@ redirect_from:
     <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:60%;">
   </div>
   <div class="flex-item-right" >
-    <div style="text-align: center; align-items: center;">
-      <b>WAYNE YUAN GAO<b>
+    <div style="text-align: center; font-size: 2em; align-items: center; ">
+      <p><b>WAYNE YUAN GAO<b><p>
     </div>
     <div style="text-align: center; font-size: 0.75em; align-items: center;">
       Assistant Professor of Economics<br>
