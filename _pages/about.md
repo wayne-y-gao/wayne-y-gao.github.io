@@ -12,10 +12,10 @@ redirect_from:
     <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:40%;">
   </div>
   <div style="flex: 2; text-align: left; padding-left: 20px;">
-    <div style="font-size: 2em;">
+    <div style="text-align: center; font-size: 2em;">
       WAYNE YUAN GAO
     </div>
-    <div>
+    <div style="text-align: center;">
       Assistant Professor of Economics<br>
       University of Pennsylvania
     </div>
