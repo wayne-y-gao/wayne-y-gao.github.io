@@ -12,7 +12,7 @@ redirect_from:
     <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:90%;">
   </div>
   <div class="flex-item-right" >
-    <div style="text-align: center; font-size: 1em; align-items: center;">
+    <div style="text-align: center; font-size: 1em; align-items: center; color: #011f5b">
       WAYNE YUAN GAO
     </div>
     <br />
