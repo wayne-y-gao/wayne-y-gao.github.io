@@ -7,19 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: center;">
-  <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:40%;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="images/BrickLargeS.jpg" alt="Profile Image" style="width:40%;">
+  </div>
+  <div style="flex: 2; text-align: left; padding-left: 20px;">
+    <div style="font-size: 2em;">
+      WAYNE YUAN GAO
+    </div>
+    <div>
+      Assistant Professor of Economics<br>
+      University of Pennsylvania
+    </div>
+  </div>
 </div>
+
 <p>&nbsp;</p>
-
-<div style="text-align: center; font-size: 2em;">
-  WAYNE YUAN GAO
-</div>
-
-<div style="text-align: center;">
-  Assistant Professor of Economics<br>
-  University of Pennsylvania<br>
-</div>
 
 <div style="text-align: center;">
   <a href="files/GaoWayne_CV250210.pdf">CV</a>,
