@@ -20,8 +20,8 @@ redirect_from:
       Assistant Professor of Economics<br>
       University of Pennsylvania<br>
       <br>
-      <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9">133 South 36th St., Philadelphia, PA 19104</a><br>
-      <a href="mailto:waynegao@upenn.edu">waynegao@upenn.edu</a><br>
+      <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9">Address: 133 South 36th St., Philadelphia, PA 19104</a><br>
+      <a href="mailto:waynegao@upenn.edu">Email: waynegao@upenn.edu</a><br>
       <a href="files/GaoWayne_CV250210.pdf">CV</a>,
       <a href="https://github.com/wayne-y-gao">GitHub</a>,
       <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
