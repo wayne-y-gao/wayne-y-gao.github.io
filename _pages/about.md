@@ -20,7 +20,7 @@ redirect_from:
       Assistant Professor of Economics<br>
       University of Pennsylvania<br>
       <br>
-      <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9">Address: 133 South 36th St., Philadelphia, PA 19104</a><br>
+      <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9">Address: The Ronald O. Perelman Center for Political Science and Economics, Office 630</a><br>
       <a href="mailto:waynegao@upenn.edu">Email: waynegao@upenn.edu</a><br>
       <a href="files/GaoWayne_CV250210.pdf">CV</a>,
       <a href="https://github.com/wayne-y-gao">GitHub</a>,
@@ -32,9 +32,7 @@ redirect_from:
 
 <br />
 
-**Contact Information:** 
-* Email: [waynegao@upenn.edu](mailto:waynegao@upenn.edu)
-* Address: [Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 South 36th Street, Philadelphia, PA 19104](https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9)
+
 
 
 
