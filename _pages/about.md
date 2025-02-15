@@ -21,7 +21,9 @@ redirect_from:
       University of Pennsylvania<br>
       <a href="files/GaoWayne_CV250210.pdf">CV</a>,
       <a href="https://github.com/wayne-y-gao">GitHub</a>,
-      <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a><br>
+      [waynegao@upenn.edu](mailto:waynegao@upenn.edu)<br>
+      [133 South 36th St., Philadelphia, PA 19104](https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9)
     </div>
   
   </div>
