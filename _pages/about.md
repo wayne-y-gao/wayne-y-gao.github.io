@@ -15,12 +15,13 @@ redirect_from:
     <div style="text-align: center; font-size: 1em; align-items: center; color: #011f5b">
       WAYNE YUAN GAO
     </div>
-    <br />
     <div style="text-align: center; font-size: 18px; align-items: center;">
       Assistant Professor of Economics<br>
-      University of Pennsylvania<br>
       <br>
-      <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9">Address: The Ronald O. Perelman Center for Political Science and Economics, Office 630</a><br>
+      Department of Economics
+      University of Pennsylvania<br>
+      <a href="https://maps.app.goo.gl/BRp9q7D5ssHQ7rJi9"> The Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 S 36th St, Philadelphia, PA 19104</a><br>
+      <br>
       <a href="mailto:waynegao@upenn.edu">Email: waynegao@upenn.edu</a><br>
       <a href="files/GaoWayne_CV250210.pdf">CV</a>,
       <a href="https://github.com/wayne-y-gao">GitHub</a>,
@@ -31,10 +32,6 @@ redirect_from:
 </div>
 
 <br />
-
-
-
-
 
 **Academic Appointments:**
 * Assistant Professor of Economics, University of Pennsylvania, 2020-current.
