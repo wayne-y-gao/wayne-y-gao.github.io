@@ -22,7 +22,7 @@ redirect_from:
       The Ronald O. Perelman Center for Political Science and Economics, Office 630, 133 S 36th St, Philadelphia, PA 19104<br>
       <br>
       <a href="mailto:waynegao@upenn.edu">Email: waynegao@upenn.edu</a><br>
-      <a href="files/GaoWayne_CV250210.pdf">CV</a>,
+      <a href="files/GaoWayne_CV.pdf">CV</a>,
       <a href="https://github.com/wayne-y-gao">GitHub</a>,
       <a href="https://scholar.google.com/citations?user=fjLSVhgAAAAJ">Google Scholar</a>
     </div>
