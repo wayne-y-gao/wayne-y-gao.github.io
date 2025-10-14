@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[CV](file:/files/GaoWayne_CV.pdf)
+[CV](file://files/GaoWayne_CV.pdf)
