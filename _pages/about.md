@@ -34,7 +34,7 @@ redirect_from:
 
 **Academic Appointments:**
 * Assistant Professor of Economics, University of Pennsylvania, 2020-current.
-* Associate Undergraduate Chair, Dept of Economics, University of Pennsylvania, 2026-current.
+* Associate Undergraduate Chair, Department of Economics, University of Pennsylvania, 2026-current.
 * College Engaging Complexity Faculty Fellow, School of Arts & Sciences, University of Pennsylvania, 2026-2027.
 * Visiting Assistant Professor of Economics, Harvard University, Spring 2022.
 * Lecturer, University of Pennsylvania, 2019-2020.
